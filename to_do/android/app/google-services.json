@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416441660150",
+    "project_id": "to-do-bdf97",
+    "storage_bucket": "to-do-bdf97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416441660150:android:33313a292711c974aef2d7",
+        "android_client_info": {
+          "package_name": "com.example.to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416441660150-acsfmkkt67tb0g2tjca0nep075enruf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.to_do",
+            "certificate_hash": "a22a6042583145483777be88d2c47d82b01632b6"
+          }
+        },
+        {
+          "client_id": "416441660150-bb0b7b4a134s9gnd4nvo68hnrr0p0eo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXODj_1bZUeazmxijj0rMHETkxfgfqH-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416441660150-bb0b7b4a134s9gnd4nvo68hnrr0p0eo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
